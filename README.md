@@ -17,6 +17,10 @@ Just :
 
 **SuuuubscRibe & Follow**
 ---
-<img src="http://www.iconarchive.com/download/i98467/dakirby309/simply-styled/YouTube.ico" height ="50" weigh ="40" href="https://www.youtube.com/c/M4rkWalker">
-<img src="https://cdn1.iconfinder.com/data/icons/social-media-set-for-free/32/facebook-512.png" height ="50" weigh ="40" href="https://www.facebook.com/offciel.zack">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Instagram_simple_icon.svg" height ="50" weigh ="40" href="https://www.instagram.com/pip3.py">
+<br>
+<img src="http://www.iconarchive.com/download/i98467/dakirby309/simply-styled/YouTube.ico" height ="50" weigh ="40" ><a href="https://www.youtube.com/c/M4rkWalker">Youtube</a>
+<br>
+<img src="https://cdn1.iconfinder.com/data/icons/social-media-set-for-free/32/facebook-512.png" height ="50" weigh ="40" ><a href="https://www.facebook.com/offciel.zack">Facebook</a>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Instagram_simple_icon.svg" height ="50" weigh ="40" ><a href="https://www.instagram.com/pip3.py">Instagram<br></a>
+
