@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/m4rktn/xsmash/master/screen.png" href="https://github.com/m4rktn/xsmash"><br>
 **New Version 4 Xsmash ( V2.1 ) {just For Windows}**
 ----
-<img src="https://raw.githubusercontent.com/m4rktn/xsmash2/master/screen.png"><br>
+<img src="https://prnt.sc/mbsfrp"><br>
 ```
 Just : 
 |_Install Active Python 2.7 : 
